@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(248, 222, 255);
+}
+
+header {
+    margin: 100px auto 40px auto;
+    font-size: 25px;
+    text-align: center;
+}
+
+main {
+    background-color:rgb(99, 55, 187);
+    margin: 40px 850px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 250px;
+}
+
+h1 {
+    color:rgb(99, 55, 187);
+    font-family: 'Roboto',sans-serif;
+}
+
+h2 {
+    color:white;
+    font-family: 'Roboto',sans-serif;
+}
+
+h3 {
+    color:white;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+}
+
+h4 {
+    color:rgb(139, 139, 139);
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+ul {
+    color:rgb(255, 234, 112);
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    list-style: none;
+    border-left: 5px solid rgb(255, 234, 112);
+}
+
+ol {
+    color:white;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    list-style: none;
+}
+
+a {
+    background-color: rgb(255, 242, 171);
+    color: black;
+    padding: 2.5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+li {
+    margin-top: 15px;
+    margin-left: -25px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#download {
+    background-color: rgb(255, 198, 12);
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
